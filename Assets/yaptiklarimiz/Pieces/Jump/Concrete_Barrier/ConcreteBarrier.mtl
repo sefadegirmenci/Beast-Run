@@ -1,0 +1,15 @@
+# Blender MTL File: 'ConcreteBarrier.blend'
+# Material Count: 1
+newmtl M_ConcreteBarrier_T_ConcreteBarrier.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.300000 0.300000 0.300000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ConcreteBarrier.blend\T_ConcreteBarrier.tga
+map_Ks ConcreteBarrier.blend\\Spec_ConcreteBarrier.tga
+map_Bump ConcreteBarrier.blend\\Bump_ConcreteBarrier.tga
+
+
